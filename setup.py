@@ -3,11 +3,11 @@
 from setuptools import setup
 
 setup(
-    name='YourAppName',
+    name='django-triptip',
     version='1.0',
-    description='OpenShift App',
-    author='Your Name',
-    author_email='example@example.com',
+    description='Our server',
+    author='Sihaumrik',
+    author_email='zyl.alexander@gmail.com',
     url='http://www.python.org/sigs/distutils-sig/',
     install_requires=['Django<=1.4'],
 )
